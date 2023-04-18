@@ -11,7 +11,7 @@ BINARY_DIR=$(BUILD_DIR)/bin
 
  # to start the application
 run:
-	@echo "Welcome To My Ecommerce Project"
+	@echo "Google OAuth2
 	$(GOCMD) run ./cmd/api
 
  ## Generate swagger docs
